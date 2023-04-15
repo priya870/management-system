@@ -1,0 +1,26 @@
+{
+  "employee": [
+    {
+      "name": "priya",
+      "email": "priyalovelin62@gmail.com",
+      "number": "123456789",
+      "age": "30",
+      "gender": "Female",
+      "department": "Front_End",
+      "salary": "40k",
+      "image": "https://avatars.githubusercontent.com/u/107981105?v=4",
+      "id": 1
+    },
+    {
+      "name": "priya",
+      "email": "priyalovelin62@gmail.com",
+      "number": "123456789",
+      "age": "30",
+      "gender": "Female",
+      "department": "Front_End",
+      "salary": "40k",
+      "image": "https://avatars.githubusercontent.com/u/107981105?v=4",
+      "id": 2
+    }
+  ]
+}
