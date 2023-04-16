@@ -1,25 +1,22 @@
 
 .input_box{
     width: 100%;
-    padding: 8px;
+    padding: 6px;
     border-radius: 8px;
-    /* background-color: rgb(248, 242, 233); */
+    background-color: rgb(248, 242, 233);
 
 }
 
 .labels{
 
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bold;
     
 }
 
 .submit_btn{
-    border: 1px solid black;
     padding: 10px 20px;
     margin-top: 20px;
- background-color: black;
-    /* color: white; */
     border-radius: 12px;
     width: 50%;
     font-weight: 600;  

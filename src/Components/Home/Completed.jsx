@@ -9,7 +9,7 @@ const Completed = () => {
         <Box w={"30%"}>
        <FormDetail /> 
         </Box>
-        <Box w={"70%"} border={"1px solid red"} textAlign={"center"} borderRadius={20}>
+        <Box w={"70%"}  textAlign={"center"} borderRadius={20}>
        <AllEmployee />
         </Box>
     </Flex>
